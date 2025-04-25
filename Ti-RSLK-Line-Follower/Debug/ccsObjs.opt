@@ -1,0 +1,11 @@
+"./main.obj"
+"./startup_msp432p401r_ccs.obj"
+"./system_msp432p401r.obj"
+"./code/bumper.obj"
+"./code/button.obj"
+"./code/controller.obj"
+"./code/reflectance.obj"
+"./code/timerA0.obj"
+"./inc/clock.obj"
+"../msp432p401r.cmd"
+-llibc.a
