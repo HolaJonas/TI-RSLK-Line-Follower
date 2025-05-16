@@ -51,4 +51,5 @@ A line-following robot project built for the TI-RSLK platform using the MSP432P4
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Some source files are from Texas Instruments and are used under the terms of the BSD-3-Clause-style license provided by TI. See individual file headers for details.
+See the [LICENSE](LICENSE) file for details.
