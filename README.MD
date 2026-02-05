@@ -15,16 +15,6 @@ A line-following robot project built for the TI-RSLK platform using the MSP432P4
 
 ---
 
-## Project Structure
-
-- `main.c` — Main entry point  
-- `code/` — Core C and assembly source files (sensors, control, peripherals)  
-- `inc/` — Additional source/header files  
-- `Debug/` — Build output (auto-generated)  
-- `targetConfigs/` — Target configuration files  
-
----
-
 ## Setup
 
 ### Prerequisites
